@@ -6,4 +6,18 @@ html {
 .newpage {
   background-image: url('vital-sinkevich-LAKQ3i-xn84-unsplash.jpg');
 }
+table {
+  font-family: arial;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #000000;
+  text-align: left;
+  padding: 8px;
+  
+}
+
+
 
