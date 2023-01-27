@@ -28,7 +28,31 @@ td, th {
     display: inline-block;
     font-size: 26px;
   }
+  header {
+    background-color: rgb(26, 24, 24);
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+  }
+  article {
+    background-color: #6b6a6a;
+    padding: 25px;
+    text-align: left;
+    font-size: 30 px;
+    width: auto;
 
-
+  }
+section::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+footer {
+  background-color: #000000;
+  color: white;
+  text-align: center;
+  padding: 30px;
+}
 
 
