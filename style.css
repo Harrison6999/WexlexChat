@@ -18,6 +18,17 @@ td, th {
   padding: 8px;
   
 }
+.clickpage {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 25px 42px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 26px;
+  }
+
 
 
 
