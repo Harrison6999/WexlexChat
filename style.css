@@ -39,7 +39,7 @@ td, th {
     background-color: #6b6a6a;
     padding: 25px;
     text-align: left;
-    font-size: 30 px;
+    font-size: auto;
     width: auto;
 
   }
