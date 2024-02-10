@@ -6,6 +6,9 @@ html {
 .newpage {
   background-image: url('vital-sinkevich-LAKQ3i-xn84-unsplash.jpg');
 }
+.notes {
+  background-image: url('');
+}
 table {
   font-family: arial;
   border-collapse: collapse;
